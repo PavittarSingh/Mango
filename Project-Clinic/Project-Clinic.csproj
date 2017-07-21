@@ -65,6 +65,14 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\MyCustom.css" />
+    <Content Include="img\header-bg.jpg" />
+    <Content Include="img\logo.jpg" />
+    <Content Include="img\Services\back-pain.jpg" />
+    <Content Include="img\Services\dog.png" />
+    <Content Include="img\Services\ipad.png" />
+    <Content Include="img\Services\logo.jpg" />
+    <Content Include="img\Services\musle.jpg" />
     <Content Include="packages.config" />
     <Content Include="less\agency.less" />
     <Content Include="less\mixins.less" />
@@ -127,7 +135,6 @@
     <Content Include="img\about\2.jpg" />
     <Content Include="img\about\3.jpg" />
     <Content Include="img\about\4.jpg" />
-    <Content Include="img\header-bg.jpg" />
     <Content Include="img\logos\creative-market.jpg" />
     <Content Include="img\logos\designmodo.jpg" />
     <Content Include="img\logos\envato.jpg" />
